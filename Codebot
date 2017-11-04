@@ -1,0 +1,62 @@
+# Octets compilés / optimisés / DLL
+__pycache __ /
+* .py [morue]
+* $ py.class
+
+# C extensions
+*.alors
+
+# Distribution / emballage
+.Python
+env /
+construire/
+développer-oeufs /
+dist /
+téléchargements /
+des œufs/
+.des œufs/
+lib /
+lib64 /
+les pièces/
+sdist /
+var /
+* .egg-info /
+.installed.cfg
+*.Oeuf
+
+# PyInstaller
+# Habituellement, ces fichiers sont écrits par un script python à partir d'un template
+# avant que PyInstaller construise l'exe, de manière à y injecter des informations de date / autres.
+*.manifeste
+* .spec
+
+# Journaux d'installation
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Rapports de test / couverture d'unité
+htmlcov /
+.tox /
+.couverture
+.couverture.*
+.cache
+nosetests.xml
+coverage.xml
+*,couverture
+.hypothèse/
+
+# Traductions
+* .mo
+*.pot
+
+# Django trucs:
+*.bûche
+
+# Documentation Sphinx
+docs / _build /
+
+# PyBuilder
+cible/
+
+#Ipython Notebook
+.ipynb_checkpoints
